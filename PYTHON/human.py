@@ -80,7 +80,7 @@ class mahasiswa(sivitas):
     def setnim(self, nim):
         self.__nim = nim
 
-
+#class dosen sebagai child dari sivitas
 class dosen(sivitas):
     __nip = ""
     __lastedu = ""

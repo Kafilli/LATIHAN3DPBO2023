@@ -47,7 +47,7 @@ class prodi:
         self.__listcourse.append(course)
 
     def getlistcourse(self):
-        print(f"Matkul pada prodi {self.__namaprodi} {self.__namaprodi}:")
+        print(f"Matkul pada prodi {self.__namaprodi} {self.__kodeprodi}:")
         i = 1
         for course in self.__listcourse:
             print(f"{i}. {course.getnamamatkul()}")

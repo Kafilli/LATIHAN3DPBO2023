@@ -63,6 +63,11 @@ Desain Algoritma Menggunakan uml
 3. Data ditampilkan 
  
  ## Dokumentasi
+ 
+ Python
+ 
+ ![image](https://user-images.githubusercontent.com/100756191/222200782-97e3c456-fff0-4895-bd63-4850bc5d64e3.png)
+
 
 
 

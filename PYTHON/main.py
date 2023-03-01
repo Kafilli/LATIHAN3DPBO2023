@@ -1,6 +1,7 @@
 # import class
 from human import mahasiswa
 from human import dosen
+from proses import proses
 from prodi import prodi
 from course import course
 
@@ -20,7 +21,7 @@ matkul2 = course("Strukdat")
 matkul3 = course("DPBO")
 
 # instansiasi objek prodi
-prodi = prodi("Ilkom")
+prodi = prodi("Ilkom", "123")
 
 # memanggil method addmhs untuk menambah mhs ke dalam list
 prodi.addmhs(mhs1)

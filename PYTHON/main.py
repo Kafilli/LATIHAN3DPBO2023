@@ -1,7 +1,6 @@
 # import class
 from human import mahasiswa
 from human import dosen
-from proses import proses
 from prodi import prodi
 from course import course
 

@@ -1,3 +1,4 @@
+#class prodi yang memiliki atau has a class mahasiswa, dosen, dan course
 class prodi:
     # atribut private
     __namaprodi = ""
@@ -8,7 +9,8 @@ class prodi:
     # constructor
     def __init__(self, namaprodi):
         self.__namaprodi = namaprodi
-
+    
+    #setter dan getter
     def setnamaprodi(self, prodi):
         self.__namaprodi = prodi
 

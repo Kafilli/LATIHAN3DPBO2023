@@ -1,7 +1,7 @@
-# LATIHAN 3 DPBO 2023
+# LATIHAN 4 DPBO 2023
 
 ## Janji
- Saya Muhammad Fikri Kafilli NIM 2107264 mengerjakan Latihan 3 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+ Saya Muhammad Fikri Kafilli NIM 2107264 mengerjakan Latihan 4 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Deskripsi Tugas
 Buatlah program berbasis OOP menggunakan bahasa pemrograman C++ dan Python  yang mengimplementasikan konsep inheritance, composition, dan array of object pada kelas-kelas tersebut:

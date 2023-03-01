@@ -30,17 +30,22 @@ class prodi:
         print(f"Mahasiswa pada prodi {self.__namaprodi} {self.__kodeprodi}:")
         i = 1
         for mhs in self.__listmhs:
-            print(f"{i}. {mhs.getnama()}")
+            print(f"{i}. Nama    : {mhs.getnama()}")
+            print(f"   NIM     : {mhs.getnim()}")
+            print(f"   Kelamin : {mhs.getkelamin()}")
             i = i + 1
 
-    def adddosen(self, dosen: object):
+    def adddosen(self, dosen):
         self.__listdosen.append(dosen)
 
     def getlistdosen(self):
         print(f"Dosen pada prodi {self.__namaprodi} {self.__kodeprodi}:")
         i = 1
         for dosen in self.__listdosen:
-            print(f"{i}. {dosen.getnama()}")
+            print(f"{i}. Nama    : {dosen.getnama()}")
+            print(f"   NIP     : {dosen.getnip()}")
+            print(f"   Keahlian: {dosen.getkeahlian()}")
+            print(f"   Kelamin : {dosen.getkelamin()}")
             i = i + 1
 
     def addcourse(self, course):

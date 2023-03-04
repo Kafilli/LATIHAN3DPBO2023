@@ -13,12 +13,11 @@ Buatlah program berbasis OOP menggunakan bahasa pemrograman C++ dan Python  yang
 * Program Studi: nama_prodi, kode, course
 
 ## Desain Program
-Desain Program dibagi menjadi 6 class yaitu human, sivitas, mahasiswa, dosen, course, dan prodi. Mahasiswa dan Dosen merupakan child dari sivitas dan sivitas adalah child dari human. Alasan dari design tersebut adalah karena mahasiswa dan dosen adalah objek yang sama dengan sivitas dan sivitas adalah objek yang sama dengan human. Ketiga class tersebut bisa saling berhubungan inheritance karena tiap class merupakan objek yang sama yaitu manusia, memiliki atribut yang sama, dan ada atribut tambahan untuk setiap childnya. Untuk program studi mmeiliki atau has a course, dosen, dan mahasiswa karena course, dosen, dan mahasiswa adalah bagian dari prodi.
+Desain Program dibagi menjadi 6 class yaitu human, sivitas, mahasiswa, dosen, course, dan prodi. Mahasiswa dan Dosen merupakan child dari sivitas dan sivitas adalah child dari human. Alasan dari design tersebut adalah karena mahasiswa dan dosen adalah objek yang sama dengan sivitas dan sivitas adalah objek yang sama dengan human. Ketiga class tersebut bisa saling berhubungan inheritance karena tiap class merupakan objek yang sama yaitu manusia, memiliki atribut yang sama, dan ada atribut tambahan untuk setiap childnya. Untuk program studi memiliki atau has a course, dosen, dan mahasiswa karena course, dosen, dan mahasiswa adalah bagian dari prodi.
 
 Desain Algoritma Menggunakan uml
 
-
-
+![image](https://user-images.githubusercontent.com/100756191/222882320-d2f999b6-af95-44bf-99d8-7cc3fed9e5bc.png)
 
 
 1. Human
@@ -58,9 +57,7 @@ Desain Algoritma Menggunakan uml
   
  ## Alur Program
  
-1. User diminta memasukkan datanya
-2. Data dimasukkan ke dalam list 
-3. Data ditampilkan 
+Input berupa hardcode.
  
  ## Dokumentasi
  
